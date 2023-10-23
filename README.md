@@ -9,7 +9,7 @@ Fall 2023 DALI Application for Dev Position
 Project name: **samosa-selector**<br>
 Website name: **samosa selector**
 
-
+![samosa](https://github.com/maymoree/samosa_selector/assets/139424554/96b2da86-fe4c-45f2-aab8-b8f4b4ce8f7e)
 
 ## Features 🥪
 - [x] Samosa button that increases samosa count on click
