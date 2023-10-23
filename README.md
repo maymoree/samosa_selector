@@ -1,8 +1,27 @@
-# React + Vite
+# samosa selector 🍴
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+** The React project is created with Vite **
 
-Currently, two official plugins are available:
+## Memo Tangtipongkul (Github: maymoree)
+Fall 2023 DALI Application for Dev Position
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌮 About the Project
+Project name: **samosa-selector**<br>
+Website name: **samosa selector**
+
+
+
+## Features 🥪
+- [x] Samosa button that increases samosa count on click
+- [x] 3 buttons to multiply the amount of samosa per click
+
+## 🍰 To Run 
+Simply run with `npm run dev` in the samosa-selector project
+
+## Files & Folders in src Folder 🍫
+These are the files and folders that I have edited from the original project creation
+### assets
+- samosa picture
+### others
+- **App.css** : The design of the whole website
+- **App.jsx** : Renders the application
